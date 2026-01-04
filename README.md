@@ -1,4 +1,5 @@
 <img width="1557" height="278" alt="image" src="https://github.com/user-attachments/assets/86b68f42-b4f6-442b-9455-460e621063f3" />
+
 **More detailed information can be found in the uploaded documentation folder in this repository. There you will find a prelimenary paper as well as the project presentation slides**
 
 # Abstract
